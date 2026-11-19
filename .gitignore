@@ -1,0 +1,20 @@
+# Binaries and compiled objects
+*.o
+*.obj
+*.out
+*.exe
+false_sharing
+numa_sweep
+compare_numa
+
+# Python bytecode and temporary caches
+__pycache__/
+*.py[cod]
+*$py.class
+.mplconfig/
+
+# OS and Editor temporary files
+.DS_Store
+Thumbs.db
+*.swp
+*~
